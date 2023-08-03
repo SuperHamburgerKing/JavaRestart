@@ -10,7 +10,6 @@ public class Tester {
 //        Expression();
 //        GUI();
 //        Math();
-        
     }
 
     private static void Math() {
