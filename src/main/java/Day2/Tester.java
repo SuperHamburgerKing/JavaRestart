@@ -14,7 +14,6 @@ public class Tester {
 //        Array();
 //        TwodArray();
 //        StringMethod();
-
     }
 
     private static void StringMethod() {
