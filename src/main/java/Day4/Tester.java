@@ -12,7 +12,7 @@ public class Tester {
     }
 
     private static void FileReader() {
-        //      讀取檔案資料
+        //      讀取檔案資料~
 
         try {
             FileReader reader = new FileReader("abc");
