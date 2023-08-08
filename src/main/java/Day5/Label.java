@@ -36,7 +36,7 @@ public class Label {
 //        自訂label在frame中的位置 (x,y,長,寬)
 //        label.setBounds(0,0,400,400);
 //        可直接依照label(圖+文字)的大小自動包裹成一個滿frame的圖示
-        frame.pack();
+//        frame.pack();
 
 
 
